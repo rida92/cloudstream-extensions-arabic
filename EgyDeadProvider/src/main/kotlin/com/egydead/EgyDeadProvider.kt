@@ -8,7 +8,7 @@ import org.jsoup.nodes.Element
 
 class EgyDead : MainAPI() {
     override var lang = "ar"
-    override var mainUrl = "https://tv.egydead.live"
+    override var mainUrl = "https://egydead.fyi
     override var name = "EgyDead"
     override val usesWebView = false
     override val hasMainPage = true
